@@ -13,4 +13,11 @@ Displays reasons for employees leaving which includes teri distance from home, o
 # 3- Income Dynamics :
 Explores the relationship between employees's monthly income and distance from home, percent salary hike, job level and job involvement.
 
+![work performace ( active )](https://github.com/user-attachments/assets/47f45224-180e-4ed2-a69d-5b4c87325c5a)
+![work performace ( resign)](https://github.com/user-attachments/assets/bb555cbb-8db4-44d0-b784-1c3a662bf70d)
+![Attrition Analysis](https://github.com/user-attachments/assets/2fa09daa-90b9-4e38-ab2d-5ae9b838c286)
+![Income Dynamics](https://github.com/user-attachments/assets/0dadaebb-fc6c-4476-b7b0-60e8ec53dcdf)
+
+
+
 
